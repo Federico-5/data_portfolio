@@ -3,6 +3,7 @@
 Exploratory data analysis of NYC parking and camera-issued violations, built from a live pull of the NYC Open Data Socrata API. The project cleans a messy, real-world municipal dataset and surfaces which violation types, boroughs, and precincts drive enforcement activity across the city.
 
 **Team:** Federico Ciandri, Sabrina Zhu, Yongheng Guan
+**Course:** CIS 9650 — Programming for Analytics, Baruch College (Spring 2026)
 
 ## Overview
 
