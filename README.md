@@ -1,6 +1,6 @@
 # Federico Ciandri — Data Analytics Portfolio
 
-Hi, I'm Federico — a Business Analytics graduate student focused on data-driven decision making. This repository collects academic and independent projects applying statistics, econometrics, and data cleaning/visualization to real-world datasets.
+Ciao, I'm Federico — a Business Analytics graduate student focused on data-driven decision making. This repository collects academic and independent projects applying statistics, econometrics, and data cleaning/visualization to real-world datasets.
 
 - MS in Business Analytics (Data Analysis), Baruch College – Zicklin School of Business (expected May 2027)
 - BA Business Administration, City College of New York, Summa Cum Laude (May 2024)
