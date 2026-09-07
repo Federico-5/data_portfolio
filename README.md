@@ -22,13 +22,12 @@ An econometrics research paper (ECO B2000, CCNY) using IPUMS CPS microdata to te
 ## Structure
 data-portfolio/
 ├── nyc-parking-violations/
-│ ├── notebook/ Jupyter notebook (data pull, cleaning, EDA)
-│ ├── data/ raw dataset (CSV)
-│ ├── images/ exported charts
-│ └── docs/ summary write-up and slide deck
+│   ├── notebook/    Jupyter notebook (data pull, cleaning, EDA)
+│   ├── data/        raw dataset (CSV)
+│   ├── images/      exported charts
+│   └── docs/        summary write-up and slide deck
 └── immigrant-earnings-cps/
-├── report/ full written paper (PDF)
-└── code/ R script for regressions and figures
-
+    ├── report/      full written paper (PDF)
+    └── code/        R script for regressions and figures
 
 Each project folder has its own README with methodology, findings, and a guide to its contents.
